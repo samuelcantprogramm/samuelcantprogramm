@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Aspiring full-stack web developer focused on mastering the MERN stack.<br>🔭 I’m currently working on JavaScript-based projects and simple Node.js backends<br>🌱I’m currently learning JavaScript fundamentals, Node.js, Express.js, and Python.
+👨‍💻 Aspiring full-stack web developer focused on mastering the MERN stack.<br>🔭 I’m currently working on JavaScript-based projects and simple Node.js backends<br>🌱I’m currently learning JavaScript fundamentals, Node.js, Express.js, and PostgreSQL
 
 # 💻 Tech Stack:
 
