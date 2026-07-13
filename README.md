@@ -11,7 +11,7 @@ Currently, I'm focused on strengthening my backend skills with **JavaScript**, *
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,postgres" />
 </p>
 
 ### Frameworks & Libraries
